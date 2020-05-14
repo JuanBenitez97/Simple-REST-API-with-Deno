@@ -10,7 +10,7 @@ With this API you can:
 * Remove a dog from the list
 * Update a dog age
 
-To run the server you just need to run the command: `deno run --allow-env --allow-net app.ts`
+To run the server you just need to install deno and run the command: `deno run --allow-env --allow-net app.ts`
 
 Endpoits:
 * `GET /dogs`
